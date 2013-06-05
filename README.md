@@ -1,4 +1,4 @@
 Zabbix
 ======
 
-Monitoramento com Zabbix
+Ferramentas para Monitoramento com Zabbix
